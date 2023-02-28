@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @akdaslibatuhan
-- 👀 I’m interested in Data Engineering, Cloud Engineering and AI
+- 👀 I’m interested in Data Science, Data Engineering, Cloud Engineering, Backend and AI
 - 🌱 I’m currently learning Java and Python...
 - 📫 How to reach me "akdasli.batuhan@gmail.com" and also https://www.linkedin.com/in/batuhan-akda%C5%9Fli-51600a162/ 
 
